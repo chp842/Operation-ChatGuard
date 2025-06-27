@@ -1,0 +1,9 @@
+# Reporte de Feedback o Bug
+
+## Descripción del problema o sugerencia:
+
+## Cómo reproducirlo:
+
+## Captura (si es posible):
+
+## Tu nombre (opcional):
